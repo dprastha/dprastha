@@ -39,12 +39,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="dprastha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dprastha&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="dprastha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dprastha&show_icons=true&hide_border=true" />
 
 [website]: https://dprastha.github.io/
 [instagram]: https://www.instagram.com/danielprasthaa/
