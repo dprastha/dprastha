@@ -15,7 +15,6 @@
 [<img align="left" alt="dprastha.github.io" width="22px" src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere-thumbnail.png" />][website]
 [<img align="left" alt="Daniel Prastha | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="Daniel Prastha | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="Daniel Prastha | Email" width="22px" src="https://1.bp.blogspot.com/-gwkoWGuiuDE/YCfaKMVBvSI/AAAAAAAAD7c/_bnlcs6D4oIpQblR1UtbEkPwJqJ7mbxEQCLcBGAsYHQ/s1600/Logo%2BGmail%2BTerbaru.png" />][email]
 
 <br/>
 
@@ -68,4 +67,3 @@
 [website]: https://dprastha.github.io/
 [instagram]: https://www.instagram.com/danielprasthaa/
 [linkedin]: https://www.linkedin.com/in/danielprastha/
-[email]: danielprastha4@gmail.com
