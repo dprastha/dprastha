@@ -6,7 +6,7 @@
 - 🌱 Currently learning Typescript
 - 💻 Tech enthusiast
 
-<img align="left" alt="dprastha's github profile views" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" />
+<img align="left" alt="dprastha's github profile views" src="https://komarev.com/ghpvc/?username=dprastha&color=green" />
 
 ### Connect with me:
 
@@ -30,6 +30,8 @@
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/laravel/laravel.png" />
 <img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/nestjs/nestjs.png" />
 
+<br/>
+
 ---
 
 ### Databases
@@ -37,6 +39,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+
+<br/>
 
 ---
 
