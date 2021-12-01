@@ -8,13 +8,15 @@
 
 <img align="left" alt="dprastha's github profile views" src="https://komarev.com/ghpvc/?username=dprastha&color=green" />
 
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="dprastha.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Daniel Prastha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Daniel Prastha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br/>
 
 ### Languages & Framework:
 
@@ -44,7 +46,7 @@
 
 ---
 
-## Tools
+### Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -54,8 +56,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Heroku" width="26px" src="https://www.coddletech.com/sites/default/files/heroku-logo.png" />
 
-<br />
-<br />
+<br/>
 
 ---
 
