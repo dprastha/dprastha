@@ -61,9 +61,12 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="dprastha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dprastha&show_icons=true&hide_border=true" />
+<div align="left">
+<p>:zap: GitHub Stats</p>
+<img alt="dprastha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dprastha&show_icons=true&hide_border=true" />
+<img alt="dprastha's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprastha&layout=compact" height="195"
+></img>
+</div>
 
 [website]: https://dprastha.github.io/
 [instagram]: https://www.instagram.com/danielprasthaa/
