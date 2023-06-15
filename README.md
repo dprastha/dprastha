@@ -20,7 +20,7 @@
 
 ---
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=dprastha&type=horizontal)](https://medium.com/@Souravdey777)
+[![Dprastha Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=dprastha&type=horizontal)](https://medium.com/@dprastha)
 
 <div align="left">
 <p>:zap: GitHub Stats</p>
